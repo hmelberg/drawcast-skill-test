@@ -1,0 +1,10 @@
+{
+  "casts": [
+    {
+      "slug": "my-test-cast",
+      "title": "Does it work in practice? Evidence, limits, and alternatives",
+      "file": "my-test-cast.yaml",
+      "updated": "2026-09-29"
+    }
+  ]
+}
