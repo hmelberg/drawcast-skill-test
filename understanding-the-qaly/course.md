@@ -1,7 +1,7 @@
 # Understanding the QALY: Definition, Calculation, and Debates
 enroll: https://drawcast.anvil.app
 slug: understanding-the-qaly
-level: advanced undergraduate or graduate students in health economics and health policy
+level: advanced undergraduate or graduate students in health economics and health policy (registry test)
 language: English
 notation: QALY = Σ (utility weight u_t × time spent in health state t), with u_t ∈ [0,1] anchored at 0=dead, 1=full health
 example: a 60-year-old patient choosing between a hip replacement that adds years in moderate pain relief versus a drug that extends life but with side effects
