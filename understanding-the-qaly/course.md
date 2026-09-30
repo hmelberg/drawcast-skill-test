@@ -1,4 +1,5 @@
 # Understanding the QALY: Definition, Calculation, and Debates
+private: true
 enroll: https://drawcast.anvil.app
 slug: understanding-the-qaly
 level: advanced undergraduate or graduate students in health economics and health policy (registry test)
