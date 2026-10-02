@@ -14,6 +14,21 @@
         "understanding-the-qaly/README.md"
       ],
       "updated": "2026-09-30"
+    },
+    {
+      "slug": "understanding-the-qaly-public",
+      "title": "Understanding the QALY: Definition, Calculation, and Debates",
+      "files": [
+        "understanding-the-qaly-public/what-is-a-qaly-and-why-do-we-need-it.yaml",
+        "understanding-the-qaly-public/how-is-a-qaly-actually-calculated.yaml",
+        "understanding-the-qaly-public/the-theoretical-foundations-where-does.yaml",
+        "understanding-the-qaly-public/the-ethical-debate-whose-life-counts-and.yaml",
+        "understanding-the-qaly-public/does-it-work-in-practice-evidence-limits.yaml",
+        "understanding-the-qaly-public/course.md",
+        "understanding-the-qaly-public/index.html",
+        "understanding-the-qaly-public/README.md"
+      ],
+      "updated": "2026-10-02"
     }
   ]
 }
